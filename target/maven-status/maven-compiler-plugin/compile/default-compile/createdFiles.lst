@@ -1,0 +1,9 @@
+cn\goldenpotato\minesweeper\CommandManager.class
+cn\goldenpotato\minesweeper\ConfigManager.class
+cn\goldenpotato\minesweeper\MineSweeperGame.class
+cn\goldenpotato\minesweeper\PlayerManagerConfig.class
+cn\goldenpotato\minesweeper\EventManager.class
+cn\goldenpotato\minesweeper\MineSweeperGame$Directions.class
+cn\goldenpotato\minesweeper\MineSweeper.class
+cn\goldenpotato\minesweeper\PlayerManager.class
+cn\goldenpotato\minesweeper\MineSweeperGame$GameStatus.class

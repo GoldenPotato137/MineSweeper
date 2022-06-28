@@ -1,0 +1,27 @@
+Sound:
+  #是否在胜利时播放声音
+  PlayWinSound: true
+  #是否在失败时播放声音
+  PlayLossSound: true
+  #是否在点击格子（开雷场）时播放声音
+  PlayClickSound: true
+  #是否在标记雷时播放声音
+  PlayMarkSound: true
+
+#如果不需要命令，则在对应命令的地方输入[null]
+#命令中所有的[player]子段将会被替换为玩家的名字，例如give [player] diamond 1 就是给予对应的玩家一颗钻石
+Command:
+#  WinCommand: give [player] diamond 1
+  WinCommand: [null]
+#  LossCommand: kill [player]
+  LossCommand: [null]
+
+Game:
+  #允许的最低难度，不能超过5
+  MinDifficulty: 1
+  #允许的最高难度，不能超过5，不能低于最低难度
+  MaxDifficulty: 5
+  #允许的雷场最小宽度，不能小于5
+  MinWidth: 9
+  #允许的雷场最小高度，不能小于5
+  MinHeight: 6

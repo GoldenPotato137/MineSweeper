@@ -1,0 +1,10 @@
+name: MineSweeper
+version: '${project.version}'
+main: cn.goldenpotato.minesweeper.MineSweeper
+api-version: 1.13
+commands:
+  minesweeper:
+    aliases:
+      - "ms"
+    description: "Get Help List!"
+    usage: "/minesweeper"
