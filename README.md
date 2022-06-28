@@ -5,7 +5,7 @@ A minecraft bukkit plugin to play minesweeper!
 
 **前置:** 没有捏
 
----
+
 ## 介绍
 在MC中玩扫雷吧！
 
@@ -18,7 +18,7 @@ A minecraft bukkit plugin to play minesweeper!
 * 无需前置插件！
 * ~~这是我的插件开发hello world程序~~
 
----
+
 ## 玩法
 输入
 ```/minesweeper game 难度[2-5] 宽度[9-100] 高度[6-100]```开启一局新的游戏！
@@ -38,7 +38,7 @@ A minecraft bukkit plugin to play minesweeper!
 
 如果你能打开所有非雷的格子，你将取得本局游戏胜利！
 
----
+
 ## 配置
 ```config.yml```
 ```yaml
@@ -71,13 +71,13 @@ Game:
   MinHeight: 6
 ```
 
----
+
 ## 命令与权限
 * ```/minesweeper game [难度] [宽度] [高度]``` —— 开始一局新游戏！ —— minesweeper.game
 * ```/minesweeper reload``` —— 重新加载配置 —— minesweeper.reload
 * ```/minesweeper help``` —— 帮助 —— 无权限要求
 
----
+
 ## 下载与编译
 **下载链接**：https://github.com/GoldenPotato137/MineSweeper/releases
 
